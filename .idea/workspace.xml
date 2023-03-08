@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="472838a3-4485-4c63-a03c-c35a30f6c507" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/School/CheckArmStrong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/School/CountDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/School/SumOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/School/reverseDig.java" afterDir="false" />
+    <list default="true" id="472838a3-4485-4c63-a03c-c35a30f6c507" name="Changes" comment="Day1">
+      <change afterPath="$PROJECT_DIR$/src/School/FindOddOrEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/School/GCD_OR_HCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/School/MultiplicationTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/School/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/School/SwapTwoNumberUsingArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,13 +33,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.FindOddOrEven">
+    <configuration name="FindOddOrEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="School.FindOddOrEven" />
+      <module name="GeeksForGeeks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="School.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SumOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="School.SumOfArray" />
       <module name="GeeksForGeeks" />
@@ -54,6 +68,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindOddOrEven" />
         <item itemvalue="Application.SumOfArray" />
       </list>
     </recent_temporary>
@@ -67,6 +82,21 @@
       <option name="presentableId" value="Default" />
       <updated>1678204458015</updated>
     </task>
+    <task id="LOCAL-00001" summary="Day1">
+      <created>1678207478607</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678207478607</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Day1">
+      <created>1678207490205</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678207490205</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,5 +109,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day1" />
   </component>
 </project>
